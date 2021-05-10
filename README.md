@@ -46,3 +46,9 @@ Also since I'm a mac user had to do some other magic
 
 Now sketch is installed...
 
+# Update 6 - actually SKETCH
+
+Ok, I was dumb before now sketch is actually installed and working, going to start investigating what's going on and play around with it.
+
+
+
