@@ -54,3 +54,11 @@ Ok, I was dumb before now sketch is actually installed and working, going to sta
 
 Add hello world for sketch too
 
+# Update 7
+
+Added a really really bad translator in racket.
+
+I wish I could spend more time on this but I really do need to move on. I wanted to get the translations working in order to autogenerate some stuff to put into sketch but clearly that's not possible with this thing.
+
+
+
