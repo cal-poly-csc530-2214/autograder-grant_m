@@ -26,5 +26,23 @@ CEGIS does have weaknesses though, but don't we all.
 
 All in all, this was a great piece going over different approaches to verification techniques in program synthesis and now I am moving on to review the sketch paper.
 
+# Update 4
 
+According to sketch paper, SKETCH represents integer/boolean holes as ??, and these holes will be filled with constants. 
+
+SKETCH also offers many constructs to assist a programmer in their ignorance of the final form of whatever program they are interested in. 
+
+SKETCH utilizes CEGIS, hence why these two papers were picked for more info. 
+
+# Update 5 - The SKETCH one
+
+Sketch Manual: https://people.csail.mit.edu/asolar/manual.pdf
+Sketch Repo 1: https://github.com/asolarlez/sketch-backend
+Sketch Repo 2: https://github.com/asolarlez/sketch-frontend
+
+Finally got SKETCH to compile going back to commit cc77db4c86dff425f7620427229355f72832f5e1
+
+Also since I'm a mac user had to do some other magic
+
+Now sketch is installed...
 
